@@ -1,3 +1,5 @@
+![Wget_gui_db_r](https://github.com/user-attachments/assets/d2d20ad0-18f5-4fc3-a15e-f950428ea75f)
+
 # Wget_gui_db
 Adding a GUI and a database to linux wget command
 # Notes :
@@ -19,5 +21,3 @@ It's my stuff to refresh the GUI
 
 # How to launch the script
 Open a terminal and just write : ./Wget_gui_db.py
-
-![Wget_gui_db_r](https://github.com/user-attachments/assets/d2d20ad0-18f5-4fc3-a15e-f950428ea75f)
