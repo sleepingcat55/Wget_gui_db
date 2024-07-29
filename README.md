@@ -12,7 +12,7 @@ Furthermore, I don't understand all of aspects of the GUI Toolkit Dearpygui. So 
 I used a bash script to kill the python script and then re-launch it.
 It's my stuff to refresh the GUI
 
-# How to install on linux (surely same procedure if you are on Mac, and I don't know how to on Windows) :
+# How to install on linux (surely same procedure if you have a Mac. But for Windows, I'm sorry, I don't know how to do) :
 - Make sure Python is installed.
 - The script works on python3.12, if you don't have this version : download it. Else change the version name of python script : it's the 1st line (the shebang) you have to change the python version with yours.
 - Install the GUI Toolkit with this command : pip install dearpygui.
