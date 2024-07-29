@@ -17,7 +17,7 @@ It's my stuff to refresh the GUI
 - Make sure about permissions : sudo chmod 755 Wget_gui_db.py
  and :  sudo chmod 755 delete_and_restart.sh
 
-Then it should works
-  
+# How to launch the script
+Open a terminal and just write : ./Wget_gui_db.py
 
-
+![Wget_gui_db_r](https://github.com/user-attachments/assets/d2d20ad0-18f5-4fc3-a15e-f950428ea75f)
